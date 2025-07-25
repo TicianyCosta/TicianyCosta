@@ -1,19 +1,12 @@
-<h1 align="center">Hello World!! I'm Ticiany 👋</h1>
-
-###
-
-<h2 align="left">Contato / Contact</h2>
-
-###
+<br clear="both">
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/ticiany-costa/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="## Contact [ticiany.engineer@gmail.com](mailto:ticiany.engineer@gmail.com)" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
+  <img height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjFyYXFtY3MwbXF3ZmZuYWJqaWFkYXNzMDNua2xweGxqaG4zazN0aCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/WUlplcMpOCEmTGBtBW/giphy.gif"  />
 </div>
+
+###
+
+<h1 align="center">Hello World!! I'm Ticiany 👋</h1>
 
 ###
 
@@ -49,31 +42,31 @@
 
 ###
 
-<br clear="both">
-
-<img align="right" height="250" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWZkYzZxaHU5M2twdWVweWV5a2ZkOHN6dGV5YmwzeDBlaGs0azd6cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7UxM6DyRAF9NFnNMir/giphy.gif"  />
-
-###
-
-<img align="left" height="250" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXdocXJuamlnM2Q3dXhjdGc3N2FvYTZpMjhnNHQyNTZ2NW9sMHowbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/b2mYLTxIbMirEmy9I3/giphy.gif"  />
+<h2 align="left">Contato / Contact</h2>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=TicianyCosta&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=jolly&hide_border=true&order=2" height="350" alt="languages graph"  />
+  <a href="https://www.linkedin.com/in/ticiany-costa/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="## Contact [ticiany.engineer@gmail.com](mailto:ticiany.engineer@gmail.com)" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
 </div>
 
 ###
 
 <br clear="both">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TicianyCosta/TicianyCosta/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TicianyCosta/TicianyCosta/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/TicianyCosta/TicianyCosta/output/pacman-contribution-graph.svg">
-</picture>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TicianyCosta&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=jolly&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=TicianyCosta&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=jolly&hide_border=true&order=2" height="200" alt="languages graph"  />
+</div>
 
 ###
+
+<br clear="both">
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=TicianyCosta.TicianyCosta&left_color=blueviolet&right_color=blueviolet&left_text=Visitors"  />
