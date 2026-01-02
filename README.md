@@ -31,10 +31,8 @@ Para ver meus projetos detalhados ou entrar em contato:
 * 📧 **Email:** ticiany.engineer@gmail.com
 
 ---
-*“Learning by doing.”*
----
 
-## 🇺🇸 About Me
+## US About Me
 
 ### 🎓 Software Engineering Student (7th Semester)
 
@@ -61,3 +59,6 @@ To see my detailed projects or get in touch:
 * 💼 **Portfolio:** [ticianycosta.github.io](https://ticianycosta.github.io/)
 * 👔 **LinkedIn:** [in/ticiany-costa](https://www.linkedin.com/in/ticiany-costa/)
 * 📧 **Email:** ticiany.engineer@gmail.com
+---
+
+*“Learning by doing.”*
