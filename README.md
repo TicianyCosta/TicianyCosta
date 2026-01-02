@@ -32,33 +32,4 @@ Para ver meus projetos detalhados ou entrar em contato:
 
 ---
 
-## US About Me
-
-### 🎓 Software Engineering Student (7th Semester)
-
-Currently, I am exploring the tech ecosystem to build a 360º view of software development. My goal is to understand the full lifecycle of digital solutions: from **Cloud** infrastructure and **Code** logic to **Data** intelligence.
-
-I am seeking opportunities where I can apply this versatility and further deepen my technical skills.
-
-### ☁️ Cloud & Certifications
-Solid knowledge in cloud fundamentals and hands-on lab practice (AWS/Restart).
-* **Certification:** AWS Certified Cloud Practitioner 🏆
-* **Skills:** EC2, S3, IAM, Cloud Security.
-
-### 🛠️ Tech Stack & Tools
-I am always learning something new. Here is what I have been using:
-
-* **Languages:** Python, Java, JavaScript, SQL.
-* **Web & Mobile:** HTML5, CSS3, React Native (Android).
-* **Data & Business:** Power BI, Advanced Excel, Agile Methodologies (Scrum/Kanban).
-* **Versioning:** Git & GitHub.
-
-### 🌐 Connect with me
-To see my detailed projects or get in touch:
-
-* 💼 **Portfolio:** [ticianycosta.github.io](https://ticianycosta.github.io/)
-* 👔 **LinkedIn:** [in/ticiany-costa](https://www.linkedin.com/in/ticiany-costa/)
-* 📧 **Email:** ticiany.engineer@gmail.com
----
-
 *“Learning by doing.”*
