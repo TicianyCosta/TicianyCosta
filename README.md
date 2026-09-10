@@ -1,35 +1,39 @@
-# Olá, eu sou a Ticiany Costa 👋
+┌──────────────────────────────────────────────────────────┐
+│ root@ticiany:~$ whoami                                   │
+│ Ticiany Costa                                            │
+│                                                          │
+│ root@ticiany:~$ cat status.txt                           │
+│ > Formada em Engenharia de Software                      │
+│ > Em transição para Cibersegurança 🔐                   | 
+│ > Foco atual: Ethical Hacking / Pentest                  │
+│ > Objetivo: Perícia Forense Digital                      │
+└──────────────────────────────────────────────────────────┘
 
-### 🎓 Graduanda em Engenharia de Software (7º Semestre)
+Venho construindo uma base sólida em desenvolvimento e nuvem, e agora estou direcionando meus estudos para Segurança da Informação,
+com foco inicial em Ethical Hacking / Pentest e objetivo de futuramente atuar em Perícia Forense Digital.
 
-Atualmente, estou explorando o ecossistema tecnológico para construir uma visão 360º do desenvolvimento de software. Meu objetivo é entender o ciclo completo das soluções digitais: desde a infraestrutura na **Nuvem**, passando pela lógica do **Código**, até a inteligência dos **Dados**.
+[ 0x01 ] CIBERSEGURANÇA — FOCO ATUAL
 
-Estou em busca de oportunidades onde eu possa aplicar essa versatilidade e aprofundar meus conhecimentos técnicos.
+Estudando ativamente e validando conhecimento com certificações e simulações práticas:
 
----
+🔐 Certificação em Cibersegurança — FEBRABAN (40h): fundamentos de segurança, redes, ataques, crimes cibernéticos e LGPD
+🔐 Introduction to Cybersecurity — Cisco
+🔐 Cybersecurity Job Simulation — Datacom (Forage): resposta a incidentes
+🔐 Cybersecurity Job Simulation — Mastercard (Forage): análise de dados
+🔐 HackTheBox — Fundamentos do Linux [Em estudo...]
 
-### ☁️ Cloud & Certificações
-Possuo conhecimentos sólidos em fundamentos de nuvem e prática em laboratórios (AWS/Restart).
-* **Certificação:** AWS Certified Cloud Practitioner 🏆
-* **Conhecimentos:** EC2, S3, IAM, Cloud Security.
+[ 0x02 ] NUVEM E CERTIFICAÇÕES
+☁️ Certificação: AWS Certified Cloud Practitioner 🏅
+☁️ Conhecimentos: EC2, S3, IAM, Segurança em Nuvem
 
-### 🛠️ Tech Stack & Ferramentas
-Estou sempre aprendendo algo novo. Aqui está o que tenho usado:
+[ 0x03 ] TECNOLOGIAS E FERRAMENTAS
+Linguagens: Python, JavaScript, SQL
+Web e dispositivos móveis: HTML5, CSS3, JavaScript
+Dados & Negócios: Power BI, Excel Intermediário, Metodologias Ágeis (Scrum/Kanban)
+Controle de versão: Git e GitHub
 
-* **Linguagens:** Python, Java, JavaScript, SQL.
-* **Web & Mobile:** HTML5, CSS3, React Native (Android).
-* **Dados & Negócios:** Power BI, Excel Avançado, Metodologias Ágeis (Scrum/Kanban).
-* **Versionamento:** Git & GitHub.
+[ 0x04 ] CONECTE-SE COMIGO
+💼 LinkedIn: in/ticiany-costa
+📧 E-mail: ticiany.engineer@gmail.com
 
----
-
-### 🌐 Conecte-se comigo
-Para ver meus projetos detalhados ou entrar em contato:
-
-* 💼 **Portfólio:** [ticianycosta.github.io](https://ticianycosta.github.io/)
-* 👔 **LinkedIn:** [in/ticiany-costa](https://www.linkedin.com/in/ticiany-costa/)
-* 📧 **Email:** ticiany.engineer@gmail.com
-
----
-
-*“Learning by doing.”*
+"Aprender fazendo."
