@@ -1,36 +1,76 @@
-root@ticiany:~$ whoami
-Ticiany Costa
-root@ticiany:~$ cat status.txt
-> Formada em Engenharia de Software
-> Em transição para Cibersegurança 🔐
-> Foco atual: Ethical Hacking / Pentest
-> Objetivo: Perícia Forense Digital
+<h1 align="center">Olá! Eu sou a Ticiany Costa 👾</h1>
 
-Venho construindo uma base sólida em desenvolvimento e nuvem, e agora estou direcionando meus estudos para Segurança da Informação,
-com foco inicial em Ethical Hacking / Pentest e objetivo de futuramente atuar em Perícia Forense Digital.
+<h3 align="center">🛡️ Cybersecurity Enthusiast | AWS Certified Cloud Practitioner ☁️ | Future Pentester</h3>
 
-[ 0x01 ] CIBERSEGURANÇA — FOCO ATUAL
+<br>
 
-Estudando ativamente e validando conhecimento com certificações e simulações práticas:
+## 👩‍💻 Sobre Mim
+- ☁️ Construí uma base em **Cloud Computing**, e agora direcionando minha carreira para a **Segurança da Informação**.
+- 🎯 Foco atual: **Ethical Hacking e Pentest**.
+- 🔭 Objetivo futuro: **Perícia Forense Digital**.
+- 🌱 Estudando ativamente e validando conhecimento com certificações, labs e simulações práticas.
 
-🔐 Certificação em Cibersegurança — FEBRABAN (40h): fundamentos de segurança, redes, ataques, crimes cibernéticos e LGPD
-🔐 Introduction to Cybersecurity — Cisco
-🔐 Cybersecurity Job Simulation — Datacom (Forage): resposta a incidentes
-🔐 Cybersecurity Job Simulation — Mastercard (Forage): análise de dados
-🔐 HackTheBox — Fundamentos do Linux [Em estudo...]
+<br>
 
-[ 0x02 ] NUVEM E CERTIFICAÇÕES
-☁️ Certificação: AWS Certified Cloud Practitioner 🏅
-☁️ Conhecimentos: EC2, S3, IAM, Segurança em Nuvem
+## 🛠️ Hard Skills & Tecnologias
+<div align="center">
+  <!-- Nuvem e Segurança -->
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/IAM_&_Cloud_Sec-000000?style=for-the-badge&logo=awsorganizations&logoColor=white" alt="IAM" />
+  <!-- Linguagens e Banco de Dados -->
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+  <!-- Web e Dados -->
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
 
-[ 0x03 ] TECNOLOGIAS E FERRAMENTAS
-Linguagens: Python, JavaScript, SQL
-Web e dispositivos móveis: HTML5, CSS3, JavaScript
-Dados & Negócios: Power BI, Excel Intermediário, Metodologias Ágeis (Scrum/Kanban)
-Controle de versão: Git e GitHub
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+</div>
 
-[ 0x04 ] CONECTE-SE COMIGO
-💼 LinkedIn: in/ticiany-costa
-📧 E-mail: ticiany.engineer@gmail.com
+<br>
 
-"Aprender fazendo."
+## 🧠 Soft Skills & Metodologias
+<div align="center">
+  <img src="https://img.shields.io/badge/Metodologias_Ágeis_(Scrum/Kanban)-2F3136?style=for-the-badge" alt="Agile" />
+  <img src="https://img.shields.io/badge/Resposta_a_Incidentes-2F3136?style=for-the-badge" alt="Incident Response" />
+  <img src="https://img.shields.io/badge/Análise_de_Dados-2F3136?style=for-the-badge" alt="Data Analysis" />
+  <img src="https://img.shields.io/badge/Pensamento_Analítico-2F3136?style=for-the-badge" alt="Analytical Thinking" />
+</div>
+
+<br>
+
+## 📜 Certificações & Formação
+- 🏅 **AWS Certified Cloud Practitioner**
+- 🔐 **Cibersegurança (40h)** — FEBRABAN *(Fundamentos, Redes, Crimes Cibernéticos e LGPD)*
+- 🔐 **Introduction to Cybersecurity** — Cisco
+- 🛡️ **Cybersecurity Job Simulation (Resposta a Incidentes)** — Datacom / Forage
+- 📊 **Cybersecurity Job Simulation (Análise de Dados)** — Mastercard / Forage
+- 🐧 **Fundamentos do Linux** — HackTheBox
+
+<br>
+
+## 🟩 HackTheBox Academy
+*Clique nas insígnias para ver a certificação oficial.*
+<div align="center">
+  <a href="https://academy.hackthebox.com/achievement/badge/da8c5e20-a8b5-11f1-82d1-bea50ffe6cb4">
+    <img src="https://static.hackthebox.com/academy/badges/19bee749eaa26dce0829ad89ab2b2678/logo.png" alt="HTB Initiate" width="160">
+  </a>
+  <a href="https://academy.hackthebox.com/achievement/badge/07e6476d-b162-11f1-82d1-bea50ffe6cb4">
+    <img src="https://static.hackthebox.com/academy/badges/our-favorite-seabird.png" alt="Linux Fundamentals" width="160">
+  </a>
+  <a href="https://academy.hackthebox.com/achievement/badge/fb53eb0f-b15f-11f1-82d1-bea50ffe6cb4">
+    <img src="https://static.hackthebox.com/academy/badges/academician.png" alt="Academician" width="160">
+  </a>
+  <a href="https://academy.hackthebox.com/achievement/badge/063b46c8-b622-11f1-82d1-bea50ffe6cb4">
+    <img src="https://static.hackthebox.com/academy/badges/philomath.png" alt="Philomath" width="160">
+  </a>
+</div>
+
+<br>
+
+## 📬 Contato
+<div align="center">
+  <a href="https://linkedin.com/in/ticiany-costa"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:ticiany.engineer@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</div>
