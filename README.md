@@ -16,8 +16,6 @@
 <div align="center">
   <!-- Nuvem e Segurança -->
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
-  <img src="https://img.shields.io/badge/Amazon_EC2-FF9900?style=for-the-badge&logo=amazon-ec2&logoColor=white" alt="EC2" />
-  <img src="https://img.shields.io/badge/Amazon_S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white" alt="S3" />
   <img src="https://img.shields.io/badge/IAM_&_Cloud_Sec-000000?style=for-the-badge&logo=awsorganizations&logoColor=white" alt="IAM" />
   <!-- Linguagens e Banco de Dados -->
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
@@ -26,7 +24,6 @@
   <!-- Web e Dados -->
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </div>
 
@@ -48,7 +45,7 @@
 - 🔐 **Introduction to Cybersecurity** — Cisco
 - 🛡️ **Cybersecurity Job Simulation (Resposta a Incidentes)** — Datacom / Forage
 - 📊 **Cybersecurity Job Simulation (Análise de Dados)** — Mastercard / Forage
-- 🐧 **Fundamentos do Linux** — HackTheBox *(Em andamento ⏳)*
+- 🐧 **Fundamentos do Linux** — HackTheBox 
 
 <br>
 
