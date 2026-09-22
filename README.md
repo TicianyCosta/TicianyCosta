@@ -1,13 +1,10 @@
-┌──────────────────────────────────────────────────────────┐
-│ root@ticiany:~$ whoami                                   │
-│ Ticiany Costa                                            │
-│                                                          │
-│ root@ticiany:~$ cat status.txt                           │
-│ > Formada em Engenharia de Software                      │
-│ > Em transição para Cibersegurança 🔐                   | 
-│ > Foco atual: Ethical Hacking / Pentest                  │
-│ > Objetivo: Perícia Forense Digital                      │
-└──────────────────────────────────────────────────────────┘
+root@ticiany:~$ whoami
+Ticiany Costa
+root@ticiany:~$ cat status.txt
+> Formada em Engenharia de Software
+> Em transição para Cibersegurança 🔐
+> Foco atual: Ethical Hacking / Pentest
+> Objetivo: Perícia Forense Digital
 
 Venho construindo uma base sólida em desenvolvimento e nuvem, e agora estou direcionando meus estudos para Segurança da Informação,
 com foco inicial em Ethical Hacking / Pentest e objetivo de futuramente atuar em Perícia Forense Digital.
