@@ -14,14 +14,11 @@
 
 ## 🛠️ Hard Skills & Tecnologias
 <div align="center">
-  <!-- Nuvem e Segurança -->
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
   <img src="https://img.shields.io/badge/IAM_&_Cloud_Sec-000000?style=for-the-badge&logo=awsorganizations&logoColor=white" alt="IAM" />
-  <!-- Linguagens e Banco de Dados -->
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
-  <!-- Web e Dados -->
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
@@ -68,17 +65,17 @@
 ## 🟩 HackTheBox Academy
 *Clique nas insígnias para ver a certificação oficial.*
 <div align="center">
-  <a href="https://academy.hackthebox.com/achievement/badge/da8c5e20-a8b5-11f1-82d1-bea50ffe6cb4">
-    <img src="https://static.hackthebox.com/academy/badges/philomath.png" alt="Philomath" width="160">
-  </a>
-  <a href="https://academy.hackthebox.com/achievement/badge/07e6476d-b162-11f1-82d1-bea50ffe6cb4">
-    <img src="https://static.hackthebox.com/academy/badges/academician.png" alt="Academician" width="160">
+  <a href="https://academy.hackthebox.com/achievement/badge/063b46c8-b622-11f1-82d1-bea50ffe6cb4">
+    <img src="https://static.hackthebox.com/academy/badges/19bee749eaa26dce0829ad89ab2b2678/logo.png" alt="Cyber Starter" width="160">
   </a>
   <a href="https://academy.hackthebox.com/achievement/badge/fb53eb0f-b15f-11f1-82d1-bea50ffe6cb4">
     <img src="https://static.hackthebox.com/academy/badges/our-favorite-seabird.png" alt="Linux Fundamentals" width="160">
   </a>
-  <a href="https://academy.hackthebox.com/achievement/badge/063b46c8-b622-11f1-82d1-bea50ffe6cb4">
-    <img src="https://static.hackthebox.com/academy/badges/19bee749eaa26dce0829ad89ab2b2678/logo.png" alt="Cyber Starter" width="160">
+  <a href="https://academy.hackthebox.com/achievement/badge/07e6476d-b162-11f1-82d1-bea50ffe6cb4">
+    <img src="https://static.hackthebox.com/academy/badges/academician.png" alt="Academician" width="160">
+  </a>
+  <a href="https://academy.hackthebox.com/achievement/badge/da8c5e20-a8b5-11f1-82d1-bea50ffe6cb4">
+    <img src="https://static.hackthebox.com/academy/badges/philomath.png" alt="Philomath" width="160">
   </a>
 </div>
 
