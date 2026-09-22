@@ -5,7 +5,7 @@
 <br>
 
 ## 👩‍💻 Sobre Mim
-- ☁️ Construindo uma base sólida em **Desenvolvimento e Nuvem**, e agora direcionando minha carreira para a **Segurança da Informação**.
+- ☁️ Após construir uma base sólida em **Cloud Computing**, e agora direcionando minha carreira para a **Segurança da Informação**.
 - 🎯 Foco atual: **Ethical Hacking e Pentest**.
 - 🔭 Objetivo futuro: **Perícia Forense Digital**.
 - 🌱 Estudando ativamente e validando conhecimento com certificações, labs e simulações práticas.
