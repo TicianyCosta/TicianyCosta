@@ -5,7 +5,7 @@
 <br>
 
 ## 👩‍💻 Sobre Mim
-- ☁️ Após construir uma base sólida em **Cloud Computing**, e agora direcionando minha carreira para a **Segurança da Informação**.
+- ☁️ Construí uma base sólida em **Cloud Computing** e agora estou direcionando minha carreira para a **Segurança da Informação**.
 - 🎯 Foco atual: **Ethical Hacking e Pentest**.
 - 🔭 Objetivo futuro: **Perícia Forense Digital**.
 - 🌱 Estudando ativamente e validando conhecimento com certificações, labs e simulações práticas.
@@ -40,8 +40,24 @@
 <br>
 
 ## 📜 Certificações & Formação
+*Clique nas badges para verificar a credencial no Credly.*
+<div align="center">
+  <a href="https://www.credly.com/badges/b38a5f01-4bd8-4ca2-be8c-8d419bebaaf7/public_url" target="_blank">
+    <img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS Certified Cloud Practitioner" width="150">
+  </a>
+  <a href="https://www.credly.com/badges/7dcd25f0-3e99-4f42-aebd-a9465396ae6f/public_url" target="_blank">
+    <img src="https://images.credly.com/size/340x340/images/44e2c252-5d19-4574-9646-005f7225bf53/image.png" alt="AWS re/Start Graduate" width="150">
+  </a>
+  <a href="https://www.credly.com/badges/ae0ca611-b91b-42e3-bc07-1be2645ba8c5/public_url" target="_blank">
+    <img src="https://images.credly.com/size/340x340/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" alt="Introduction to Cybersecurity - Cisco" width="150">
+  </a>
+</div>
+
+<br>
+
 - 🏅 **AWS Certified Cloud Practitioner**
-- 🔐 **Cibersegurança (40h)** — FEBRABAN *(Fundamentos, Redes, Crimes Cibernéticos e LGPD)*
+- 🏅 **AWS re/Start Graduate**
+- 🔐 **Cibersegurança** — FEBRABAN *(Fundamentos, Redes, Crimes Cibernéticos e LGPD)*
 - 🔐 **Introduction to Cybersecurity** — Cisco
 - 🛡️ **Cybersecurity Job Simulation (Resposta a Incidentes)** — Datacom / Forage
 - 📊 **Cybersecurity Job Simulation (Análise de Dados)** — Mastercard / Forage
